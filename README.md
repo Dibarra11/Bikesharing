@@ -9,3 +9,4 @@ Utilizing the data provided by bike service in New York City from August 2019, d
 Tableau Story and data is publish in the following page:
 https://public.tableau.com/views/Bikesharing_Challenge_16717735392140/NYCCityBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
+https://github.com/Dibarra11/Bikesharing/blob/aae7d4de0ff2ca91366f92bb723108125e5c4547/1.png
