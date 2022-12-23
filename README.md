@@ -22,3 +22,6 @@ https://public.tableau.com/views/Bikesharing_Challenge_16717735392140/NYCCityBik
 ![image](https://github.com/Dibarra11/Bikesharing/blob/29cb7c4d7ba64bb5faaed24a4c4b118e36670c45/6.png)
 
 ![image](https://github.com/Dibarra11/Bikesharing/blob/292bd6e4129477d228ccc65c115c636fd203089d/7.png)
+
+## Summary
+
