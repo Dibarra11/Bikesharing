@@ -18,3 +18,5 @@ https://github.com/Dibarra11/Bikesharing/blob/7ac3b625db2f8570f48833c67daa6ed6d7
 https://github.com/Dibarra11/Bikesharing/blob/5dd006ed81b65b7f63143ce972b9f356908363ea/4.png
 
 https://github.com/Dibarra11/Bikesharing/blob/229e7a7620bd6b839106f6c671bfb277d2770718/5.png
+
+https://github.com/Dibarra11/Bikesharing/blob/29cb7c4d7ba64bb5faaed24a4c4b118e36670c45/6.png
